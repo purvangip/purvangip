@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python...
 - 💞️ I’m looking to collaborate on projects ...
 - 📫 How to reach me mohinijagdishpatel@gmail.com or @codesbyrose or @purvangi_1310 .
-have a look on my linkedin profile
+-  Have a look on my linkedin profile
 www.linkedin.com/in/purvangi-patel-7292a4254
 <!---
 purvangip/purvangip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
